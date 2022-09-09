@@ -3,7 +3,7 @@ import styled from "@emotion/styled";
 export const Container = styled.div`
     height: max-content;
     width: 100%;
-
+    font-family: 'Poppins';
     
     header {
         height: 40vh;

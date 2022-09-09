@@ -1,7 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
 import styled from "@emotion/styled"
-import Logo from "../../public/images/logo.png"
 
 function Footer() {
 

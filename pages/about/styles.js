@@ -2,9 +2,11 @@ import styled from "@emotion/styled";
 
 export const Container = styled.div`
     margin: 0;
+    font-family: 'Poppins';
 `
 
 export const Page = styled.div`
+    font-family: 'Poppins';
     > main {
         grid-area: content;
         overflow-y: scroll;
